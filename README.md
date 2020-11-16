@@ -15,10 +15,11 @@ This Application uses Node.js, fs and Inquirer to create the promts for the user
 ## Installation:
 You can clone the link to generate.
 
- [git clone](https://github.com/Islam4049/ReadMeGenarator)
- Need to install:
+ [GIT CLONE](https://github.com/Islam4049/ReadMeGenarator)
+ 
+  Need to install:
 
-$npm init , $ npm install....
+  $npm init , $ npm install....
 
 ## Instruction
 * [`inquirer`](https://www.npmjs.com/package/inquirer) that will prompt you for your inputs from the command-line 
@@ -27,7 +28,12 @@ User is prompt to answer questions. once the questionnaire is completed, a readm
 user runs node index.js and the application starts
 
 ## Usage:
-This application helps you to make a Good ReadMe.md file Quikly.
+
+When you run node index.js, the application uses the inquirer package to prompt you in the command line with a series of questions about your GitHub and about your project.
+
+The application then takes your responses and fetch your GitHub profile from the GitHub API, including your GitHub profile picture (avatar) and email. From there, the application will generate markdown and a table of contents for the README conditionally based on your responses to the Inquirer prompts (so, if you don't answer the optional questions, such as Installation, an Installation section will not be included in your README). The README will also include badges for your GitHub repo.
+
+Finally, fs.writeFile is used to generate your project's README.md file. Check out the ExampleREADME.md in this repo as an example. 
 
 
 ## Contributor: 
@@ -40,7 +46,7 @@ $ node license.js and $ node index.js;
 
 
 ## License
- [Apache licence](http://www.apache.org/licenses/LICENSE-2.0)
+ [Apache Licence](http://www.apache.org/licenses/LICENSE-2.0)
 
 
 For any questions, please contact me with the information below:
