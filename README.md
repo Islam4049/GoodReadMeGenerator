@@ -20,7 +20,7 @@ You can clone the link to generate.
 
 $npm init , $ npm install....
 
-## Instructions
+## Instruction
 * [`inquirer`](https://www.npmjs.com/package/inquirer) that will prompt you for your inputs from the command-line 
 User is prompt to answer questions. once the questionnaire is completed, a readme file will be generated
 
@@ -30,10 +30,10 @@ user runs node index.js and the application starts
 This application helps you to make a Good ReadMe.md file Quikly.
 
 
-## Contribution: 
+## Contributor: 
 ["Md Ariful Islam"](https://github.com/Islam4049)
 
-## Tests
+## Test
 To test for the application you need :
 
 $ node license.js and $ node index.js;
