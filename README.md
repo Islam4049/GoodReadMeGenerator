@@ -33,9 +33,8 @@ user runs node index.js and the application starts
 
 When you run node index.js, the application uses the inquirer package to prompt you in the command line with a series of questions about your GitHub and about your project.
 
-The application then takes your responses and fetch your GitHub profile from the GitHub API, including your GitHub profile picture (avatar) and email. From there, the application will generate markdown and a table of contents for the README conditionally based on your responses to the Inquirer prompts (so, if you don't answer the optional questions, such as Installation, an Installation section will not be included in your README). The README will also include badges for your GitHub repo.
 
-Finally, fs.writeFile is used to generate your project's README.md file. Check out the ExampleREADME.md in this repo as an example. 
+=> fs.writeFile is used to generate your project's README.md file. Check out the ExampleREADME.md in this repo as an example. 
 
 
 ## Contributor: 
