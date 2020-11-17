@@ -29,8 +29,7 @@ User is prompt to answer questions. once the questionnaire is completed, a readm
 user runs node index.js and the application starts
 
 ## Usage:
-![homePage](assets/homepage.png)
-
+![Application look like](assets/goodreadme.png)
 When you run node index.js, the application uses the inquirer package to prompt you in the command line with a series of questions about your GitHub and about your project.
 
 
