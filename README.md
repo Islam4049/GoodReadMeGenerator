@@ -1,17 +1,17 @@
 # GoodReadMeGenerator
-![Badge for GitHub repo top language](https://img.shields.io/github/languages/top/connietran-dev/readme-generator?style=flat&logo=appveyor) ![Badge for GitHub last commit](https://img.shields.io/github/last-commit/connietran-dev/readme-generator?style=flat&logo=appveyor)
+![Badge for GitHub repo top language](https://img.shields.io/github/languages/top/connietran-dev/readme-generator?style=flat&logo=appveyor)
 
 ## Description
 What, Why, and How:
 
 This Application uses Node.js, fs and Inquirer to create the promts for the user to fill out the answer and then constructs Readme.md files.
 ## Table of Contents
-* [Installation](#Installation)
-* [Instruction](#Instruction)
-* [Usage](#Usage)
-* [Contributor](#Contributor)
-* [Test](#Test)
-* [License](#License)
+* [INTALLATION](#Installation)
+* [INSTRUCTION](#Instruction)
+* [USAGE](#Usage)
+* [CONTRIBUTOR](#Contributor)
+* [TEST](#Test)
+* [LICENSE](#License)
 
 ## Installation:
 You can clone the link to generate.
