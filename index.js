@@ -13,7 +13,7 @@ const generateHTML = (answers) =>
 <body>
   <div class="jumbotron jumbotron-fluid">
   <div class="container">
-    <h1 class="display-4">Hi! My name is ${answers.name}</h1>
+    <h1 class="display-4">Hi! My project name is ${answers.name}</h1>
     <h3>Welcome <span class="badge badge-secondary">Contact Me</span></h3>
     <ul class="list-group">
     <li class="list-group-item">My project name is: ${answers.project}</li>
