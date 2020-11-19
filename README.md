@@ -56,4 +56,7 @@ For any questions, please contact me with the information below:
 
 [Visit my Github profile](https://github.com/Islam4049)
 
+## Walk thrugh the Video:
+[video of the generate process](https://drive.google.com/file/d/1EPcuZXDhLOsgJGGOlKm9Ei2qjGli2GIY/view?usp=sharing)
+
 
